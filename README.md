@@ -1,0 +1,1 @@
+# nightfury-installer
