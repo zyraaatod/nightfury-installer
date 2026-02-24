@@ -1,15 +1,16 @@
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=zyraaatod&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00AAFF&currStreakLabel=00FFAA&sideLabels=AAAAAA)](https://git.io/streak-stats)
-
-</div>
-
 
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Awesome%20Project&fontSize=60&fontColor=fff&animation=twinkling&desc=Make%20Something%20Amazing&descSize=20&descAlignY=70"/>
 
 </div>
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=zyraaatod&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00AAFF&currStreakLabel=00FFAA&sideLabels=AAAAAA)](https://git.io/streak-stats)
+
+</div>
+
 
 <div align="center">
   
