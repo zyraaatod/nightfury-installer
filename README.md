@@ -1,7 +1,5 @@
 <div align="center">
   
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fire.png" alt="🔥" width="40" height="40" /> **NIGHTFURY INSTALLER** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fire.png" alt="🔥" width="40" height="40" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Awesome%20Project&fontSize=60&fontColor=fff&animation=twinkling&desc=Make%20Something%20Amazing&descSize=20&descAlignY=70"/>
 
 [![License](https://img.shields.io/badge/License-MIT-00FFAA?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
@@ -21,7 +19,7 @@
 
 <div align="center">
   
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="35" height="35" /> NIGHTFURY INSTALLER <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="35" height="35" />
+# <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="35" height="35" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Web+Scanning+Utility;Termux+Optimized;Auto+Installer;Fast+%26+Efficient" alt="Typing SVG" />
