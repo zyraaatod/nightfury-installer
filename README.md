@@ -243,7 +243,6 @@ VULNERABILITIES BY TYPE:
 
 </div>
 
----
 
 ## 📝 Lisensi
 
