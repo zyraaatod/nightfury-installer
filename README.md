@@ -218,7 +218,6 @@ VULNERABILITIES BY TYPE:
 
 </div>
 
----
 
 ---
 
@@ -243,6 +242,7 @@ VULNERABILITIES BY TYPE:
 ![GitHub issues](https://img.shields.io/github/issues/zyraaatod/nightfury-installer?style=for-the-badge&color=FF4444)
 
 </div>
+
 ---
 
 ## 📝 Lisensi
