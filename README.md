@@ -83,22 +83,22 @@ Internet Koneksi stabil Pastikan terkoneksi
 
 Langkah-langkah:
 
-# 1 Buka NightFury
+ 1 Buka NightFury
 
 ```bash
 cd $HOME/nightfury-max
 ./run.sh
 ```
 
-# 2 Masukkan target URL saat diminta
+ 2 Masukkan target URL saat diminta
 
 ```
-[→] Enter target URL/IP:: https://contoh-website.com
+[→] Enter target URL/IP: https://contoh-website.com
 ```
 
-# 3 Tunggu proses scanning (durasi tergantung target)
+ 3 Tunggu proses scanning (durasi tergantung target)
 
-# 4 Lihat hasil di terminal atau file report
+ 4 Lihat hasil di terminal atau file report
 
 ---
 
