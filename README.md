@@ -58,17 +58,6 @@ git clone https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-i
 
 ---
 
-🎯 Fitur Unggulan
-
-<div align="center">
-
-  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="25" height="25" /> Instalasi Otomatis <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile" width="25" height="25" /> Termux Compatible <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Feather.png" alt="Light" width="25" height="25" /> Lightweight
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Thumbs%20Up.png" alt="Easy" width="25" height="25" /> User-Friendly <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Fast" width="25" height="25" /> Fast Setup <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Web" width="25" height="25" /> Web Scanning
-
-</div>
-
----
 
 📋 Prerequisites
 
