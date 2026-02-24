@@ -59,11 +59,11 @@ graph LR
 
 
 Metode Perintah
-🚀 One-Liner 
+ One-Liner 
 ```bash
 git clone https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-installer && bash n.sh
 ```
-📦 Manual git clone
+ Manual git clone
 ```bash 
 git clone https://github.com/zyraaatod/nightfury-installer.git
 cd nightfury-installer
@@ -113,7 +113,7 @@ cd $HOME/nightfury-max
 
 ---
 
-## 📁 Struktur Proyek
+##  Struktur Proyek
 
 ```
 📦 nightfury-max/
@@ -125,7 +125,7 @@ cd $HOME/nightfury-max
 
 ---
 
-## ⚠️ Troubleshooting
+##  Troubleshooting
 
 <div align="center">
 
@@ -191,7 +191,7 @@ Catatan: Format file nightfury_report_*.txt saat ini masih mentah. Anda bisa men
 
 ---
 
-## 🎨 Preview Output
+##  Preview Output
 
 <div align="left">
 
