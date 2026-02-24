@@ -457,6 +457,7 @@ Catatan: Format file nightfury_report_*.txt saat ini masih mentah. Anda bisa men
 ---
 
 🎨 Preview Output
+<div align="left">
 
 ```
 ============================================================
@@ -489,6 +490,7 @@ VULNERABILITIES BY TYPE:
 ║         SCAN COMPLETE - MAXIMUM DESTRUCTION        ║
 ╚════════════════════════════════════════════════════╝
 ```
+<div>
 
 ---
 
