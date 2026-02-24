@@ -103,7 +103,7 @@ git clone https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-i
 ## 📁 Struktur Direktori
 
 ```
-nightfury-installer/
+nightfury-max/
 ├── run.sh                 # Main installer script
 ├── nightfury_max.py       # Python installer script
 ├── quick.txt              # Dokumentasi
