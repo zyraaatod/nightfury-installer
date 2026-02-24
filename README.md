@@ -104,11 +104,13 @@ git clone https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-i
 
 ```
 nightfury-installer/
-├── n.sh                    # Main installer script
-├── nightfury_max.py        # Python installer script
-├── README.md               # Dokumentasi
+├── run.sh                 # Main installer script
+├── nightfury_max.py       # Python installer script
+├── quick.txt              # Dokumentasi
 └── ...
 ```
+## NOTES
+> untuh hasil masih terlalu rumit anda bisa mengedit dan mengubah nya sendiri
 
 ---
 
