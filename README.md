@@ -51,7 +51,7 @@ Metode Perintah
 🚀 One-Liner 
 ```bash
 git clone https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-installer && bash n.sh
-</table>
+```
 📦 Manual git clone
 ```bash https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-installer && bash n.sh
 ```
