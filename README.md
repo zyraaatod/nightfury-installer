@@ -3,8 +3,8 @@
 <div align="center">  
   
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-[![GitHub Stars](https://img.shields.io/github/stars/zyraaatod/nightfury-installer?style=social)](https://github.com/zyraaatod/nightfury-installer)  
-[![Termux Compatible](https://img.shields.io/badge/Termux-Compatible-green)](https://f-droid.org/id/packages/com.termux/)  
+[![GitHubStars](https://img.shields.io/github/stars/zyraaatod/nightfury-installer?style=social)](https://github.com/zyraaatod/nightfury-installer)  
+[![TermuxCompatible](https://img.shields.io/badge/Termux-Compatible-green)](https://f-droid.org/id/packages/com.termux/)  
 [![Version](https://img.shields.io/badge/Version-1.0-blue)](https://github.com/zyraaatod/nightfury-installer)  
   
 **Installer Tool untuk NightFury - Web Scanning Utility**  
