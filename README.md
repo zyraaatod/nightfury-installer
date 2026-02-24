@@ -244,8 +244,6 @@ VULNERABILITIES BY TYPE:
 ## Repository Card
 <div align="center">
   
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/zyraaatod/nightfury-installer?style=for-the-badge&color=00FFAA)
-![GitHub Release Date](https://img.shields.io/github/release-date/zyraaatod/nightfury-installer?style=for-the-badge&color=00AAFF)
 ![GitHub last commit](https://img.shields.io/github/last-commit/zyraaatod/nightfury-installer?style=for-the-badge&color=FF6B6B)
 
 ![GitHub commits since latest release](https://img.shields.io/github/commits-since/zyraaatod/nightfury-installer/latest?style=for-the-badge&color=9B59B6)
