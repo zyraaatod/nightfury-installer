@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=zyraaatod&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00AAFF&currStreakLabel=00FFAA&sideLabels=AAAAAA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zyraaatod&theme=dark&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&background=0D1117&stroke=00FFAA&ring=00FFAA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=00AAFF&currStreakLabel=00FFAA&sideLabels=AAAAAA)](https://git.io/streak-stats)
 
 </div>
 
