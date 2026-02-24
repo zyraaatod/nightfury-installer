@@ -1,1 +1,4 @@
 # nightfury-installer
+bash```
+test
+```
