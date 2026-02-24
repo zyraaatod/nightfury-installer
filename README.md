@@ -232,7 +232,7 @@ VULNERABILITIES BY TYPE:
 
 ---
 
-## 📊 Statistik Proyek
+##  Statistik Proyek
 
 <div align="center">
 
@@ -243,7 +243,6 @@ VULNERABILITIES BY TYPE:
 ---
 
 
-## 📝 Lisensi
 
 <div align="center">
 
