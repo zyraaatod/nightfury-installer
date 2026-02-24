@@ -129,7 +129,7 @@ cd $HOME/nightfury-max
 
 <div align="center">
 
-Solusi Cepat untuk Masalah Umum
+> Solusi Cepat untuk Masalah Umum
 
 </div>
 
