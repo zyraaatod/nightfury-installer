@@ -1,7 +1,7 @@
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Awesome%20Project&fontSize=60&fontColor=fff&animation=twinkling&desc=Make%20Something%20Amazing&descSize=20&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nightfury%20Project&fontSize=60&fontColor=fff&animation=twinkling&desc=Make%20Something%20Amazing&descSize=20&descAlignY=70"/>
 
 </div>
 
