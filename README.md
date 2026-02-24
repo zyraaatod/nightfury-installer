@@ -14,4 +14,6 @@ Ikuti langkah-langkah di bawah ini untuk memulai:
 
 ### 1. Clone repositori
 ```bash
-git clone https://github.com/username/repository.git
+https://github.com/zyraaatod/nightfury-installer.git
+cd nightfury-installer
+bash n.sh
