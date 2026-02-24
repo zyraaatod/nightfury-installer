@@ -6,8 +6,6 @@
 
 <div align="center">
   
-# <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="35" height="35" />
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Web+Scanning+Utility;Termux+Optimized;Auto+Installer;Fast+%26+Efficient" alt="Typing SVG" />
 </p>
