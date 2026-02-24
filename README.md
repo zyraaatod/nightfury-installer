@@ -49,8 +49,12 @@ graph LR
 <div align="center">
 
 Metode Perintah
-🚀 One-Liner git clone https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-installer && bash n.sh
-📦 Manual git clone https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-installer && bash n.sh
+🚀 One-Liner git clone
+```bash https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-installer && bash n.sh
+```
+📦 Manual git clone
+```bash https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-installer && bash n.sh
+```
 
 </div>
 
