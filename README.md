@@ -232,7 +232,7 @@ VULNERABILITIES BY TYPE:
 
 ---
 
-##  Statistik Proyek
+## 🖥️ Statistik Proyek
 
 <div align="center">
 
