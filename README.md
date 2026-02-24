@@ -53,7 +53,12 @@ Metode Perintah
 git clone https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-installer && bash n.sh
 ```
 📦 Manual git clone
-```bash https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-installer && bash n.sh
+```bash 
+git clone https://github.com/zyraaatod/nightfury-installer.git
+cd nightfury-installer
+bash n.sh
+cd $HOME/nightfury-max
+python nightfury_max.py
 ```
 
 ---
@@ -76,98 +81,24 @@ Internet Koneksi stabil Pastikan terkoneksi
 
 ---
 
-🔧 Metode Instalasi
-
-<div align="center">
-
-Pilih metode yang paling sesuai:
-
-</div>
-
-📦 Metode 1: Bash Script (Recommended)
-
-```bash
-# Clone repository
-git clone https://github.com/zyraaatod/nightfury-installer.git
-
-# Masuk ke direktori
-cd nightfury-installer
-
-# Beri permission (jika perlu)
-chmod +x n.sh
-
-# Jalankan installer
-bash n.sh
-
-# Masuk ke NightFury
-cd $HOME/nightfury-max
-
-# Jalankan aplikasi
-./run.sh
-```
-
-🐍 Metode 2: Python Script
-
-```bash
-# Clone repository
-git clone https://github.com/zyraaatod/nightfury-installer.git
-cd nightfury-installer
-
-# Jalankan dengan Python
-python nightfury_max.py
-# atau jika python3
-python3 nightfury_max.py
-```
-
-⚡ Metode 3: Express Install
-
-```bash
-curl -sSL https://raw.githubusercontent.com/zyraaatod/nightfury-installer/main/quick-install.sh | bash
-```
-
----
-
-🚀 Cara Penggunaan
-
-<div align="center">
-
-Flow Penggunaan NightFury
-
-```mermaid
-sequenceDiagram
-    participant User as 👤 User
-    participant NF as 🌙 NightFury
-    participant Target as 🎯 Target Web
-    
-    User->>NF: cd nightfury-max && ./run.sh
-    NF-->>User: Menampilkan Banner
-    User->>NF: Masukkan URL Target
-    NF->>Target: Melakukan Scanning
-    Target-->>NF: Mengirim Response
-    NF->>User: Menampilkan Hasil
-    Note over User,NF: Hasil tersimpan di file .txt
-```
-
-</div>
-
 Langkah-langkah:
 
-1️⃣ Buka NightFury
+## 1 Buka NightFury
 
 ```bash
 cd $HOME/nightfury-max
 ./run.sh
 ```
 
-2️⃣ Masukkan target URL saat diminta
+## 2 Masukkan target URL saat diminta
 
 ```
-[?] Masukkan URL target: https://contoh-website.com
+[→] Enter target URL/IP:: https://contoh-website.com
 ```
 
-3️⃣ Tunggu proses scanning (durasi tergantung target)
+## 3 Tunggu proses scanning (durasi tergantung target)
 
-4️⃣ Lihat hasil di terminal atau file report
+## 4 Lihat hasil di terminal atau file report
 
 ---
 
@@ -175,11 +106,10 @@ cd $HOME/nightfury-max
 
 ```
 📦 nightfury-max/
-├── 📄 run.sh                 # Main installer script
-├── 📄 nightfury_max.py       # Python installer script
+├── 📄 run.sh                  # Main installer script
+├── 📄 nightfury_max.py        # Python installer script
 ├── 📄 quick.txt               # Dokumentasi cepat
 ├── 📄 nightfury_report_*.txt  # Hasil scanning (auto-generated)
-└── 📁 modules/                # Modul tambahan (jika ada)
 ```
 
 ---
@@ -255,38 +185,40 @@ Catatan: Format file nightfury_report_*.txt saat ini masih mentah. Anda bisa men
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────┐
-│            NIGHTFURY SCANNER v1.0           │
-├─────────────────────────────────────────────┤
-│ Target    : https://example.com             │
-│ Waktu     : 2026-02-23 13:38:51             │
-│ Status    : Scanning Completed ✅           │
-├─────────────────────────────────────────────┤
-│ Ports Open : 80, 443, 8080                  │
-│ Services   : Apache, Nginx                   │
-│ Vulnerabilities: 3 found                     │
-├─────────────────────────────────────────────┤
-│ Report saved: nightfury_report_20260223.txt  │
-└─────────────────────────────────────────────┘
+============================================================
+   SCAN COMPLETE - INDUSTRIAL GRADE RESULTS
+============================================================
+
+Target:      https://www.vulnhub.com/
+Domain:      www.vulnhub.com
+IP:          104.21.42.126
+Duration:    237.02 seconds
+Requests:    519
+Errors:      2
+Endpoints:   50
+Forms:       5
+Parameters:  1
+Vulns found: 20
+
+VULNERABILITIES BY TYPE:
+  • Technology Stack: 1
+  • Open Ports: 1
+  • SQL Injection (Union Based): 2
+  • Command Injection: 12
+  • SSTI: 2
+  • Missing Security Headers: 1
+  • Clickjacking: 1
+
+[✓] Full report saved to: nightfury_report_20260224_142909.txt
+
+╔════════════════════════════════════════════════════╗
+║         SCAN COMPLETE - MAXIMUM DESTRUCTION        ║
+╚════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
-
-🤝 Kontribusi
-
-Kami sangat terbuka untuk kontribusi! Berikut cara Anda dapat membantu:
-
-<div align="center">
-
-Cara Deskripsi
-🐛 Laporkan Bug Buat issue dengan template yang tersedia
-💡 Saran Fitur Diskusikan ide di Discussions
-📝 Perbaiki Dokumentasi Bantu perjelas panduan
-🔧 Pull Request Kirim perbaikan kode
-
-</div>
 
 ---
 
@@ -662,29 +594,3 @@ Dipersilahkan untuk menggunakan, memodifikasi, dan mendistribusikan kembali
 </div>
 
 ---
-
-👨‍💻 Tentang Pengembang
-
-<div align="center">
-
-zyraaatod
-
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Love" width="20" height="20" /> **Dedicated to membuat tools keamanan yang accessible untuk semua** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Love" width="20" height="20" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-⭐ Star repository ini jika bermanfaat! ⭐
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="30" height="30" /> **NightFury - Scan Smart, Stay Secure** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bat.png" alt="Bat" width="30" height="30" />
-
-</div>
