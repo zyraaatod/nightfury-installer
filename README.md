@@ -17,3 +17,10 @@ Ikuti langkah-langkah di bawah ini untuk memulai:
 https://github.com/zyraaatod/nightfury-installer.git
 cd nightfury-installer
 bash n.sh
+cd $HOME
+cd nightfury-max
+./run.sh
+```
+atau
+```bash
+python nightfury_max.py
