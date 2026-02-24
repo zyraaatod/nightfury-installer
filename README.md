@@ -153,17 +153,6 @@ Untuk dokumentasi lengkap, silakan kunjungi [NightFury Documentation](https://gi
 
 ---
 
-## 🤝 Kontribusi
-
-Kami menerima kontribusi dari komunitas! Jika Anda ingin berkontribusi:
-
-1. Fork repository ini
-2. Buat branch fitur baru (`git checkout -b feature/AmazingFeature`)
-3. Commit perubahan Anda (`git commit -m 'Add some AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Buka Pull Request
-
----
 
 ## 📝 Lisensi
 
@@ -176,19 +165,7 @@ Project ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE
 **zyraaatod**
 
 - GitHub: [@zyraaatod](https://github.com/zyraaatod)
-- Email: Hubungi melalui GitHub
-
----
-
-## ⭐ Support
-
-Jika Anda menemukan project ini berguna, silakan berikan **⭐ Star** untuk mendukung!
-
----
-
-## 📞 Hubungi Kami
-
-Jika ada pertanyaan atau saran, silakan buat **Issue** di repository ini.
+- Email: kudaterbang1441@gmail.com
 
 ---
 
