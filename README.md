@@ -110,7 +110,7 @@ nightfury-installer/
 └── ...
 ```
 ## NOTES
-> untuh hasil masih terlalu rumit anda bisa mengedit dan mengubah nya sendiri
+> untuh hasil / result masih terlalu rumit [nightfury_report_20260223_133851.txt] anda bisa mengedit dan mengubah nya sendiri
 
 ---
 
