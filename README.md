@@ -241,15 +241,6 @@ VULNERABILITIES BY TYPE:
 </div>
 
 ---
-## Repository Card
-<div align="center">
-  
-![GitHub last commit](https://img.shields.io/github/last-commit/zyraaatod/nightfury-installer?style=for-the-badge&color=FF6B6B)
-
-![GitHub contributors](https://img.shields.io/github/contributors/zyraaatod/nightfury-installer?style=for-the-badge&color=FFD700)
-![GitHub issues](https://img.shields.io/github/issues/zyraaatod/nightfury-installer?style=for-the-badge&color=FF4444)
-
-</div>
 
 
 ## 📝 Lisensi
