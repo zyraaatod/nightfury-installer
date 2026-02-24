@@ -44,7 +44,7 @@ graph LR
 
 ---
 
-⚡ Quick Start
+## ⚡ Quick Start
 
 
 Metode Perintah
@@ -64,7 +64,7 @@ python nightfury_max.py
 ---
 
 
-📋 Prerequisites
+## 📋 Prerequisites
 
 <details>
 <summary><b>📌 Klik untuk melihat persyaratan lengkap</b></summary>
@@ -102,7 +102,7 @@ cd $HOME/nightfury-max
 
 ---
 
-📁 Struktur Proyek
+## 📁 Struktur Proyek
 
 ```
 📦 nightfury-max/
@@ -114,7 +114,7 @@ cd $HOME/nightfury-max
 
 ---
 
-⚠️ Troubleshooting
+## ⚠️ Troubleshooting
 
 <div align="center">
 
@@ -123,7 +123,7 @@ Solusi Cepat untuk Masalah Umum
 </div>
 
 <details>
-<summary><b>🔴 Permission Denied</b></summary>
+<summary><b> Permission Denied</b></summary>
 <br>
 
 ```bash
@@ -139,7 +139,7 @@ bash n.sh
 </details>
 
 <details>
-<summary><b>🟡 Python Not Found</b></summary>
+<summary><b> Python Not Found</b></summary>
 <br>
 
 ```bash
@@ -156,7 +156,7 @@ python3 --version
 </details>
 
 <details>
-<summary><b>🟢 Script Tidak Berjalan</b></summary>
+<summary><b> Script Tidak Berjalan</b></summary>
 <br>
 
 ```bash
@@ -171,7 +171,7 @@ bash /data/data/com.termux/files/home/nightfury-installer/n.sh
 </details>
 
 <details>
-<summary><b>📊 Hasil Report Terlalu Rumit</b></summary>
+<summary><b> Hasil Report Terlalu Rumit</b></summary>
 <br>
 
 Catatan: Format file nightfury_report_*.txt saat ini masih mentah. Anda bisa mengkustomisasi output dengan mengedit script sesuai kebutuhan. Pull request untuk perbaikan format sangat diterima! 👍
@@ -180,9 +180,9 @@ Catatan: Format file nightfury_report_*.txt saat ini masih mentah. Anda bisa men
 
 ---
 
-🎨 Preview Output
+## 🎨 Preview Output
 
-<div align="center">
+<div align="left">
 
 ```
 ============================================================
@@ -222,7 +222,7 @@ VULNERABILITIES BY TYPE:
 
 ---
 
-📊 Statistik Proyek
+## 📊 Statistik Proyek
 
 <div align="center">
 
@@ -232,7 +232,7 @@ https://api.star-history.com/svg?repos=zyraaatod/nightfury-installer&type=Date
 
 ---
 
-📝 Lisensi
+## 📝 Lisensi
 
 <div align="center">
 
