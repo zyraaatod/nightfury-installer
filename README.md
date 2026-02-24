@@ -246,7 +246,6 @@ VULNERABILITIES BY TYPE:
   
 ![GitHub last commit](https://img.shields.io/github/last-commit/zyraaatod/nightfury-installer?style=for-the-badge&color=FF6B6B)
 
-![GitHub commits since latest release](https://img.shields.io/github/commits-since/zyraaatod/nightfury-installer/latest?style=for-the-badge&color=9B59B6)
 ![GitHub contributors](https://img.shields.io/github/contributors/zyraaatod/nightfury-installer?style=for-the-badge&color=FFD700)
 ![GitHub issues](https://img.shields.io/github/issues/zyraaatod/nightfury-installer?style=for-the-badge&color=FF4444)
 
