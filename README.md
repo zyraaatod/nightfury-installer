@@ -1,3 +1,23 @@
+<div align="center">
+  
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fire.png" alt="🔥" width="40" height="40" /> **NIGHTFURY INSTALLER** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fire.png" alt="🔥" width="40" height="40" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Awesome%20Project&fontSize=60&fontColor=fff&animation=twinkling&desc=Make%20Something%20Amazing&descSize=20&descAlignY=70"/>
+
+[![License](https://img.shields.io/badge/License-MIT-00FFAA?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-2.0.0-00AAFF?style=for-the-badge&logo=semver&logoColor=white)](https://github.com/username/project/releases)
+[![Stars](https://img.shields.io/github/stars/username/project?style=for-the-badge&logo=github&color=FFD700)](https://github.com/username/project/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/username/project/total?style=for-the-badge&logo=github&color=9B59B6)](https://github.com/username/project/releases)
+
+<p align="center">
+  <i>✨ Short description about your awesome project goes here ✨</i>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+</div>
+
+---
 
 <div align="center">
   
