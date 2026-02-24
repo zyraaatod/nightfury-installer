@@ -226,7 +226,7 @@ VULNERABILITIES BY TYPE:
 
 <div align="center">
 
-https://api.star-history.com/svg?repos=zyraaatod/nightfury-installer&type=Date
+[![Star History Chart](https://api.star-history.com/svg?repos=zyraaatod/nightfury-installer&type=Date&theme=dark)](https://star-history.com/#zyraaatod/nightfury-installer&Date)
 
 </div>
 
