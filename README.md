@@ -97,7 +97,7 @@ Langkah-langkah:
  1 Buka NightFury
 
 ```bash
-cd $HOME/nightfury-max
+cd $HOME/nightfury
 ./run.sh
 ```
 
@@ -116,7 +116,7 @@ cd $HOME/nightfury-max
 ##  Struktur Proyek
 
 ```
-📦 nightfury-max/
+📦 nightfury/
 ├── 📄 run.sh                  # Main installer script
 ├── 📄 nightfury.py        # Python installer script
 ├── 📄 quick.txt               # Dokumentasi cepat
