@@ -67,9 +67,9 @@ git clone https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-i
 ```bash 
 git clone https://github.com/zyraaatod/nightfury-installer.git
 cd nightfury-installer
-bash n.sh
-cd $HOME/nightfury-max
-python nightfury_max.py
+bash install.sh
+cd $HOME/nightfury
+python nightfury.py
 ```
 
 ---
@@ -118,7 +118,7 @@ cd $HOME/nightfury-max
 ```
 📦 nightfury-max/
 ├── 📄 run.sh                  # Main installer script
-├── 📄 nightfury_max.py        # Python installer script
+├── 📄 nightfury.py        # Python installer script
 ├── 📄 quick.txt               # Dokumentasi cepat
 ├── 📄 nightfury_report_*.txt  # Hasil scanning (auto-generated)
 ```
@@ -141,10 +141,10 @@ cd $HOME/nightfury-max
 # Beri permission eksekusi
 chmod +x n.sh
 chmod +x run.sh
-chmod +x nightfury-max/run.sh
+chmod +x nightfury/run.sh
 
 # Jalankan dengan bash
-bash n.sh
+bash install.sh
 ```
 
 </details>
