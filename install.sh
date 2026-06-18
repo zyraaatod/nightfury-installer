@@ -1744,19 +1744,19 @@ PYTHONEOF
 # CREATE RUN SCRIPT
 #===========================================================
 
-cat > ~/nightfury-max/run.sh << 'EOF'
+cat > ~/nightfury/run.sh << 'EOF'
 #!/bin/bash
 cd ~/nightfury-max
 python nightfury_max.py
 EOF
 
-chmod +x ~/nightfury-max/run.sh
+chmod +x ~/nightfury/run.sh
 
 #===========================================================
 # CREATE QUICK COMMANDS
 #===========================================================
 
-cat > ~/nightfury-max/quick.txt << 'EOF'
+cat > ~/nightfury/quick.txt << 'EOF'
 ╔══════════════════════════════════════════════════════════════╗
 ║                    QUICK REFERENCE                            ║
 ╠══════════════════════════════════════════════════════════════╣
@@ -1822,5 +1822,5 @@ echo -e "  ${G}• Industrial Grade Results${N}\n"
 echo -e "${R}══════════════════════════════════════════════════════════════${N}"
 echo -e "${R}   READY TO SCAN EVERYTHING - 50+ METHODS - ZERO ERRORS${N}"
 echo -e "${R}══════════════════════════════════════════════════════════════${N}\n"
-
-echo -e "${P}Run now: cd ~/nightfury-max && python nightfury_max.py${N}"
+cd $HOME/nightfury
+echo -e "${P}Run now: python nightfury.py${N}"
