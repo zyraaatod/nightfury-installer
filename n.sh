@@ -11,8 +11,8 @@ clear
 echo -e "${R}"
 echo '╔══════════════════════════════════════════════════════════════╗'
 echo '║                                                              ║'
-echo '║     NIGHTFURY MAXIMUM DESTRUCTION v5.0                      ║'
-echo '║     INDUSTRIAL GRADE - 50+ METHODS - ZERO ERROR             ║'
+echo '║     NIGHTFURY MAXIMUM DESTRUCTION v5.0                       ║'
+echo '║     INDUSTRIAL GRADE - 50+ METHODS - ZERO ERROR              ║'
 echo '║                                                              ║'
 echo '╚══════════════════════════════════════════════════════════════╝'
 echo -e "${N}"
@@ -182,11 +182,11 @@ class NightFuryMaximum:
 ║{Fore.CYAN}  • LFI/RFI/Path Traversal     • Command Injection (6 types)  {Fore.RED}║
 ║{Fore.CYAN}  • SSRF/XXE/SSTI              • NoSQL/LDAP/ORM/XPath         {Fore.RED}║
 ║{Fore.CYAN}  • IDOR/JWT/OAuth/Session      • CORS/CSRF/Clickjacking      {Fore.RED}║
-║{Fore.CYAN}  • Header Injection/CRLF       • Open Redirect/Param Pollution{Fore.RED}║
-║{Fore.CYAN}  • Port Scanner/Service Detect • Subdomain/Cloud Enum         {Fore.RED}║
-║{Fore.CYAN}  • Sensitive Files/Backups     • CMS/Framework Fingerprint    {Fore.RED}║
-║{Fore.CYAN}  • WAF Detection/Bypass        • Race Condition/Deserialize   {Fore.RED}║
-║{Fore.CYAN}  • GraphQL/WebSocket           • Cache Poisoning/Smuggling    {Fore.RED}║
+║{Fore.CYAN}  • Header Injection/CRLF       • Open Redirect               {Fore.RED}║
+║{Fore.CYAN}  • Port Scanner/Service Detect • Subdomain/Cloud Enum        {Fore.RED}║
+║{Fore.CYAN}  • Sensitive Files/Backups     • CMS/Framework Fingerprint   {Fore.RED}║
+║{Fore.CYAN}  • WAF Detection/Bypass        • Race Condition/Deserialize  {Fore.RED}║
+║{Fore.CYAN}  • GraphQL/WebSocket           • Cache Poisoning/Smuggling   {Fore.RED}║
 ╚══════════════════════════════════════════════════════════════╝{Fore.RESET}
 """
         print(banner)
@@ -1760,17 +1760,17 @@ cat > ~/nightfury-max/quick.txt << 'EOF'
 ╔══════════════════════════════════════════════════════════════╗
 ║                    QUICK REFERENCE                            ║
 ╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  cd ~/nightfury-max                                          ║
-║  python nightfury_max.py                                     ║
-║                                                              ║
-║  Example targets:                                            ║
-║  • http://testphp.vulnweb.com                               ║
-║  • http://testasp.vulnweb.com                               ║
-║  • http://testhtml5.vulnweb.com                             ║
-║  • http://crackme.cenzic.com                               ║
-║  • http://test.webscantest.com                              ║
-║                                                              ║
+║                                                               ║
+║  cd ~/nightfury-max                                           ║
+║  python nightfury_max.py                                      ║
+║                                                               ║
+║  Example targets:                                             ║
+║  • http://testphp.vulnweb.com                                 ║
+║  • http://testasp.vulnweb.com                                 ║
+║  • http://testhtml5.vulnweb.com                               ║
+║  • http://crackme.cenzic.com                                  ║
+║  • http://test.webscantest.com                                ║
+║                                                               ║
 ╚══════════════════════════════════════════════════════════════╝
 EOF
 
