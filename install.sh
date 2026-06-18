@@ -1685,7 +1685,7 @@ class NightFuryMaximum:
             
             # Save report
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            report_file = f"nightfury_report_{timestamp}.txt"
+            report_file = f"report-{self.domain}.txt"
             
             with open(report_file, 'w') as f:
                 f.write("="*80 + "\n")
