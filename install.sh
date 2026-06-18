@@ -1822,6 +1822,5 @@ echo -e "  ${G}• Industrial Grade Results${N}\n"
 echo -e "${R}══════════════════════════════════════════════════════════════${N}"
 echo -e "${R}   READY TO SCAN EVERYTHING - 50+ METHODS - ZERO ERRORS${N}"
 echo -e "${R}══════════════════════════════════════════════════════════════${N}\n"
-echo -e "${P}Run now: cd nighfury && python nightfury.py${N}"
-
-cd ~/
+echo -e "${R} Run : python nightfury.py${N}"
+cd ~/nightfury
