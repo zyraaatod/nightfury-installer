@@ -1777,6 +1777,7 @@ EOF
 #===========================================================
 # INSTALLATION COMPLETE
 #===========================================================
+cd ~/nightfury
 
 echo -e "\n${G}══════════════════════════════════════════════════════════════${N}"
 echo -e "${G}              INSTALLATION COMPLETE!${N}"
@@ -1823,4 +1824,3 @@ echo -e "${R}══════════════════════�
 echo -e "${R}   READY TO SCAN EVERYTHING - 50+ METHODS - ZERO ERRORS${N}"
 echo -e "${R}══════════════════════════════════════════════════════════════${N}\n"
 echo -e "${R} Run : python nightfury.py${N}"
-cd ~/nightfury
