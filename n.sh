@@ -178,9 +178,9 @@ class NightFuryMaximum:
 ║{Fore.YELLOW}              INDUSTRIAL GRADE - 50+ METHODS                  {Fore.RED}║
 ║                                                              ║
 ╠══════════════════════════════════════════════════════════════╣
-║{Fore.CYAN}  • SQL Injection (14 types)   • XSS (8 types)                {Fore.RED}║
-║{Fore.CYAN}  • LFI/RFI/Path Traversal     • Command Injection (6 types)  {Fore.RED}║
-║{Fore.CYAN}  • SSRF/XXE/SSTI              • NoSQL/LDAP/ORM/XPath         {Fore.RED}║
+║{Fore.CYAN}  • SQL Injection (14 types)    • XSS (8 types)               {Fore.RED}║
+║{Fore.CYAN}  • LFI/RFI/Path Traversal      • Command Injection (6 types) {Fore.RED}║
+║{Fore.CYAN}  • SSRF/XXE/SSTI               • NoSQL/LDAP/ORM/XPath        {Fore.RED}║
 ║{Fore.CYAN}  • IDOR/JWT/OAuth/Session      • CORS/CSRF/Clickjacking      {Fore.RED}║
 ║{Fore.CYAN}  • Header Injection/CRLF       • Open Redirect               {Fore.RED}║
 ║{Fore.CYAN}  • Port Scanner/Service Detect • Subdomain/Cloud Enum        {Fore.RED}║
