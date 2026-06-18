@@ -61,7 +61,7 @@ graph LR
 Metode Perintah
  One-Liner 
 ```bash
-git clone https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-installer && bash n.sh
+git clone https://github.com/zyraaatod/nightfury-installer.git && cd nightfury-installer && bash install.sh
 ```
  Manual git clone
 ```bash 
