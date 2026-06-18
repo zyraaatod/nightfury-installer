@@ -1746,8 +1746,8 @@ PYTHONEOF
 
 cat > ~/nightfury/run.sh << 'EOF'
 #!/bin/bash
-cd ~/nightfury-max
-python nightfury_max.py
+cd ~/nightfury
+python nightfury.py
 EOF
 
 chmod +x ~/nightfury/run.sh
@@ -1761,8 +1761,8 @@ cat > ~/nightfury/quick.txt << 'EOF'
 ║                    QUICK REFERENCE                            ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                               ║
-║  cd ~/nightfury-max                                           ║
-║  python nightfury_max.py                                      ║
+║  cd ~/nightfury                                               ║
+║  python nightfury.py                                          ║
 ║                                                               ║
 ║  Example targets:                                             ║
 ║  • http://testphp.vulnweb.com                                 ║
@@ -1783,15 +1783,15 @@ echo -e "${G}              INSTALLATION COMPLETE!${N}"
 echo -e "${G}══════════════════════════════════════════════════════════════${N}\n"
 
 echo -e "${C}SCANNER INFORMATION:${N}"
-echo -e "  ${W}• Location: ~/nightfury-max${N}"
+echo -e "  ${W}• Location: ~/nightfury${N}"
 echo -e "  ${W}• Methods:  50+ Active Methods${N}"
 echo -e "  ${W}• Payloads: 1000+${N}"
 echo -e "  ${W}• Threads:  Multi-threaded${N}"
 echo -e "  ${W}• Error Rate: 0% (Guaranteed)${N}\n"
 
 echo -e "${C}HOW TO USE:${N}"
-echo -e "  ${W}cd ~/nightfury-max${N}"
-echo -e "  ${W}python nightfury_max.py${N}"
+echo -e "  ${W}cd ~/nightfury${N}"
+echo -e "  ${W}python nightfury.py${N}"
 echo -e "  ${W}OR${N}"
 echo -e "  ${W}./run.sh${N}\n"
 
@@ -1822,5 +1822,7 @@ echo -e "  ${G}• Industrial Grade Results${N}\n"
 echo -e "${R}══════════════════════════════════════════════════════════════${N}"
 echo -e "${R}   READY TO SCAN EVERYTHING - 50+ METHODS - ZERO ERRORS${N}"
 echo -e "${R}══════════════════════════════════════════════════════════════${N}\n"
-cd $HOME/nightfury
 echo -e "${P}Run now: python nightfury.py${N}"
+
+cd ~/nightfury
+python nighfury.py
