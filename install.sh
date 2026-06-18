@@ -27,14 +27,14 @@ pip install dnspython python-whois pycryptodome > /dev/null 2>&1
 
 echo -e "${B}[•]${N} Building scanner..."
 
-mkdir -p ~/nightfury-max
-cd ~/nightfury-max
+mkdir -p ~/nightfury
+cd ~/nightfury
 
 #===========================================================
 # CREATE MAIN SCANNER - INDUSTRIAL GRADE
 #===========================================================
 
-cat > ~/nightfury-max/nightfury_max.py << 'PYTHONEOF'
+cat > ~/nightfury/nightfury.py << 'PYTHONEOF'
 #!/usr/bin/env python3
 # NIGHTFURY MAXIMUM DESTRUCTION v5.0
 # INDUSTRIAL GRADE - 50+ METHODS - ZERO ERROR
